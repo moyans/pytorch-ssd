@@ -1,3 +1,11 @@
+# copyright@ https://github.com/qfgaohao/pytorch-ssd
+
+
+
+
+
+
+
 # Single Shot MultiBox Detector Implementation in Pytorch
 
 This repo implements [SSD (Single Shot MultiBox Detector)](https://arxiv.org/abs/1512.02325). The implementation is heavily influenced by the projects [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch) and [Detectron](https://github.com/facebookresearch/Detectron).
